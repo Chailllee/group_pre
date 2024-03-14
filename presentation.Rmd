@@ -13,6 +13,8 @@ output:
       highlightLines: true
       countIncrementalSlides: false
     seal: false
+format: 
+  html
 ---
 
 ```{r setup, include=FALSE,echo=FALSE}
